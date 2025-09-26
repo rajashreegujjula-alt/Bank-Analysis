@@ -6,6 +6,7 @@ The Bank Analytics project analyzes loan data to extract meaningful financial in
 Key Metrics: Loan amounts, interest rates, borrower profiles, and financial situations.
 Purpose: Identifying trends in loan performance for debt consolidation, home improvement, education, small business funding, and personal loans.
 Outcome: Interactive dashboards and data-driven recommendations for better decision-making.
+
 🔧 Tools Used
 Excel Dashboard 📊 – Initial data cleaning and trend analysis
 Power BI Dashboard 📈 – Dynamic data visualization
