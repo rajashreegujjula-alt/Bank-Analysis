@@ -1,4 +1,5 @@
 Bank Analytics
+
 📌 Overview
 The Bank Analytics project analyzes loan data to extract meaningful financial insights using Excel, Power BI, SQL, and Tableau. It focuses on:
 
